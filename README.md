@@ -5,6 +5,13 @@
 　未経験からITエンジニア転職を目指しています。
 
  ##　使用技術
+・Java
+・HTML
+・CSS
+・JavaScript
+・jQuery
+・Spring Boot
+・GitHub
  
 
 ##ポートフォリオ
@@ -19,6 +26,7 @@ HTML/Javascript
 Githubを利用し、メンバーと共同で開発を行っています。
 
 担当内容
+CSS/画像/演出
 
 使用技術
 ・Java
