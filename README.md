@@ -20,6 +20,8 @@ HTML/Javascript
 
 ### 占いアプリ
 
+https://github.com/kota20031118-stack/uranai-app
+
 ###ZeroLos（チーム開発）
 
 職業訓練校の３人チーム開発実習で作成しているWebアプリです。
